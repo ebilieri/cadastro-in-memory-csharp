@@ -1,0 +1,12 @@
+D:\GitHub\dio\dotnet-poo\bin\Debug\netcoreapp3.1\CadastroMemoria.exe
+D:\GitHub\dio\dotnet-poo\bin\Debug\netcoreapp3.1\CadastroMemoria.deps.json
+D:\GitHub\dio\dotnet-poo\bin\Debug\netcoreapp3.1\CadastroMemoria.runtimeconfig.json
+D:\GitHub\dio\dotnet-poo\bin\Debug\netcoreapp3.1\CadastroMemoria.runtimeconfig.dev.json
+D:\GitHub\dio\dotnet-poo\bin\Debug\netcoreapp3.1\CadastroMemoria.dll
+D:\GitHub\dio\dotnet-poo\bin\Debug\netcoreapp3.1\CadastroMemoria.pdb
+D:\GitHub\dio\dotnet-poo\obj\Debug\netcoreapp3.1\CadastroMemoria.AssemblyInfoInputs.cache
+D:\GitHub\dio\dotnet-poo\obj\Debug\netcoreapp3.1\CadastroMemoria.AssemblyInfo.cs
+D:\GitHub\dio\dotnet-poo\obj\Debug\netcoreapp3.1\CadastroMemoria.csproj.CoreCompileInputs.cache
+D:\GitHub\dio\dotnet-poo\obj\Debug\netcoreapp3.1\CadastroMemoria.dll
+D:\GitHub\dio\dotnet-poo\obj\Debug\netcoreapp3.1\CadastroMemoria.pdb
+D:\GitHub\dio\dotnet-poo\obj\Debug\netcoreapp3.1\CadastroMemoria.genruntimeconfig.cache
